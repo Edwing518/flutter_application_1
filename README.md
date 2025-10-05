@@ -57,7 +57,7 @@ Para optimizar el uso de batería y memoria:
 
 ```bash
 git clone https://github.com/Edwing518/flutter_application_1.git
-cd flutter_auth_app
+cd flutter_application_1
 flutter pub get
 flutter run
 ```
